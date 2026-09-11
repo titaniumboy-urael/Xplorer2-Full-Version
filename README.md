@@ -239,3 +239,6 @@ This repository serves as the official landing page for Xplorer2. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Xplorer2 today!**
+
+---
+**Last updated:** 2026-09-11 17:43:11 UTC
